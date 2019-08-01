@@ -1,0 +1,8 @@
+C:\Tedokon\DotNetCore\Tribunal\Tribunal_ASPNET_Web_API\04_Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.CoreCompileInputs.cache
+C:\Tedokon\DotNetCore\Tribunal\Tribunal_ASPNET_Web_API\04_Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfoInputs.cache
+C:\Tedokon\DotNetCore\Tribunal\Tribunal_ASPNET_Web_API\04_Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfo.cs
+C:\Tedokon\DotNetCore\Tribunal\Tribunal_ASPNET_Web_API\04_Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.deps.json
+C:\Tedokon\DotNetCore\Tribunal\Tribunal_ASPNET_Web_API\04_Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Tedokon\DotNetCore\Tribunal\Tribunal_ASPNET_Web_API\04_Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Tedokon\DotNetCore\Tribunal\Tribunal_ASPNET_Web_API\04_Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Tedokon\DotNetCore\Tribunal\Tribunal_ASPNET_Web_API\04_Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb

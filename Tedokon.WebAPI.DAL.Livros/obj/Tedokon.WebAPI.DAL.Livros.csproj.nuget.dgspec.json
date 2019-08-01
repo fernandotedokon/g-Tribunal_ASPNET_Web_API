@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Tedokon\\DotNetCore\\Tribunal\\Teste\\Tribunal_ASPNET_Web_API\\Tedokon.WebAPI.DAL.Livros\\Tedokon.WebAPI.DAL.Livros.csproj": {}
+  },
+  "projects": {
+    "C:\\Tedokon\\DotNetCore\\Tribunal\\Teste\\Tribunal_ASPNET_Web_API\\Tedokon.WebAPI.DAL.Livros\\Tedokon.WebAPI.DAL.Livros.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Tedokon\\DotNetCore\\Tribunal\\Teste\\Tribunal_ASPNET_Web_API\\Tedokon.WebAPI.DAL.Livros\\Tedokon.WebAPI.DAL.Livros.csproj",
+        "projectName": "Tedokon.WebAPI.DAL.Livros",
+        "projectPath": "C:\\Tedokon\\DotNetCore\\Tribunal\\Teste\\Tribunal_ASPNET_Web_API\\Tedokon.WebAPI.DAL.Livros\\Tedokon.WebAPI.DAL.Livros.csproj",
+        "packagesPath": "C:\\Users\\tedok\\.nuget\\packages\\",
+        "outputPath": "C:\\Tedokon\\DotNetCore\\Tribunal\\Teste\\Tribunal_ASPNET_Web_API\\Tedokon.WebAPI.DAL.Livros\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tedok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Tedokon\\DotNetCore\\Tribunal\\Teste\\Tribunal_ASPNET_Web_API\\Tedokon.WebAPI.Model\\Tedokon.WebAPI.Model.csproj": {
+                "projectPath": "C:\\Tedokon\\DotNetCore\\Tribunal\\Teste\\Tribunal_ASPNET_Web_API\\Tedokon.WebAPI.Model\\Tedokon.WebAPI.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Tedokon\\DotNetCore\\Tribunal\\Teste\\Tribunal_ASPNET_Web_API\\Tedokon.WebAPI.Model\\Tedokon.WebAPI.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Tedokon\\DotNetCore\\Tribunal\\Teste\\Tribunal_ASPNET_Web_API\\Tedokon.WebAPI.Model\\Tedokon.WebAPI.Model.csproj",
+        "projectName": "Tedokon.WebAPI.Model",
+        "projectPath": "C:\\Tedokon\\DotNetCore\\Tribunal\\Teste\\Tribunal_ASPNET_Web_API\\Tedokon.WebAPI.Model\\Tedokon.WebAPI.Model.csproj",
+        "packagesPath": "C:\\Users\\tedok\\.nuget\\packages\\",
+        "outputPath": "C:\\Tedokon\\DotNetCore\\Tribunal\\Teste\\Tribunal_ASPNET_Web_API\\Tedokon.WebAPI.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tedok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
